@@ -1,0 +1,498 @@
+Positive:-
+[b'Limelight CDN allows the delivery of your files to be MUCH faster than a normal server or even Amazon S3 server through a cloud network']
+Positive:-
+[b'Reality Check Item shipped on January 29 2009 Delivery estimate February 20 2009 Ordered from Amazon US I really want this book']
+Positive:-
+[b'My delivery date is February 26th two days after they start shipping Thanks Amazon Prime']
+Positive:-
+[b'i didn t want a Kindle 1 if Kindle 2 was on the market and improved So thanks amazon later this month is the delivery date']
+Positive:-
+[b'the design is def in response to users but the delivery content creation is nothing but Amazon pushing Users want better']
+Positive:-
+[b'Oh hey new Amazon Kindle 2 Ordered Delivery estimate March 1 2009']
+Positive:-
+[b'Oh hey new Amazon Kindle 2 Ordered Delivery estimate March 1 2009']
+Negative:-
+[b'Yes I do like wireless delivery But that makes me even more disappointed that Amazon has screwed up the Kindle design DRM']
+Positive:-
+[b'Amazon s offer for us early Kindle adopters Priority delivery for Kindle 2 Oh and 359 Thanks for nothing Amazon']
+Positive:-
+[b'From Amazon Delivery estimate February 26 2009 1 Kindle 2 Amazon s New Wireless Reading Device Latest Generation 359 00']
+Positive:-
+[b'News about Amazon Kindle 2 release on Feb 24 The ETA of Mar 6 10 delivery of my Kindle is looking good']
+Positive:-
+[b'I m still waiting on my Amazon delivery and am expecting to do so for about a week longer if that makes you feel any better']
+Negative:-
+[b'not holding my breath for a delivery from amazon using HDNL has gone to the wrong depot to start with']
+Negative:-
+[b'Slight rant just abandoned an order with Amazon common item 2 day shipping no backorder expected delivery date Feb 28 Mar 9']
+Positive:-
+[b'Wow Amazon co uk now offering free delivery on orders over \xc3\x82\xc2\xa35 When did that happen']
+Positive:-
+[b'Great Price This is the best price I ve found for these Delivery was quick and they']
+Positive:-
+[b'Awesome Gift Great service and SUPER FAST delivery I ordered my Mr Beer Kit throu']
+Negative:-
+[b'Hmm New book arrived from Amazon with dirty marks all over the front First dud delivery from them']
+Negative:-
+[b'found a solutions to expensive Canon ink Amazon has a subscription plan get 15 off for periodic delivery my 15 carts are now 8 free shp']
+Positive:-
+[b'my order from amazon is in the city and on the truck for delivery whoo hoo good start to Friday D']
+Positive:-
+[b'Early morning delivery form Amazon Flex 3 and Essential ActionScript 3 Time to give Flash a chance Flex front Java back Nirvana']
+Positive:-
+[b'Noooooooo My Amazon delivery has got lost in the snow Rubbish But my god is the Amazon tracking system good']
+Negative:-
+[b'is it bad to ponder Amazon Fresh delivery even though i m only 5 blocks away from a grocery store']
+Positive:-
+[b'Looks like more snow to come but hope I can get to work tomorrow as I am expecting an Amazon delivery got my priorities right']
+Positive:-
+[b'Also I love my Amazon Prime again because 4 00 gets me next day delivery w00t']
+Positive:-
+[b'Fine Gift LOUSY Delivery This is a fine gift but the delivery was significantly dela']
+Positive:-
+[b'amazon delivery a great collection of translations from early egyptian monasticism']
+Positive:-
+[b'great delivery from amazon this morning Buster Keaton the complete short films 1917 1923 Baraka and a Python boxset Must ration these']
+Positive:-
+[b'is slightly cheered by amazon delivery three books on the fall of the Ottoman Empire Beautiful']
+Positive:-
+[b'Wondering what the heck has happened to the delivery of books I ordered from Amazon last week on behalf of a Follower am VERY narked']
+Negative:-
+[b'I want my Gossip Girl dvd please and thank you Amazon delivery service sucks ass']
+Negative:-
+[b'City link attempted delivery of Zend Framework in Action while I was in the shower Sigh another Amazon Prime wasted']
+Positive:-
+[b'Great everything Amazon is great in its packaging and I got excellent delivery thro']
+Positive:-
+[b'Great everything Amazon is great in its packaging and I got excellent delivery thro']
+Positive:-
+[b'Great everything Amazon is great in its packaging and I got excellent delivery thro']
+Positive:-
+[b'Excellent I was very pleased with the speedy delivery of my product and the price of']
+Positive:-
+[b'Tynemouth Priory Low prices on tynemouth priory Free Delivery on Orders over \xc3\x82\xc2\xa35 Amazon co uk']
+Positive:-
+[b'Amazon com Because I have an Amazon Visa get double points plus shipping center the town over fast free delivery']
+Positive:-
+[b'just got my Xmas amazon wine delivery what a nice surprise']
+Positive:-
+[b'3rd delivery attempt of order from Amazon wasn t in but called them early to say can I collect instead nope return to Amazon']
+Positive:-
+[b'Wow I m impressed at Amazon s delivery speed I ordered something online yesterday ground shipping and it was just delivered today']
+Positive:-
+[b'Want to learn more about Amazon s content delivery system Cloud Front Here s a great overview']
+Positive:-
+[b'Cool thanks So there is some post getting thru Ordered something on Amazon Prime next day delivery on Fri still waiting']
+Negative:-
+[b'No Good ol\xc3\xa2\xc2\x80\xc2\x99 Bundespost Took two days from ordering to delivery after I canceled with Amazon']
+Negative:-
+[b'My other half just text me and told me my Amazon delivery has arrived trying to hide my kid on Christmas morning face']
+Positive:-
+[b'Today hasn t started strongly Missed the Amazon delivery dude so that s another thing I ll need to sort out tomorrow']
+Positive:-
+[b'Why is it when Amazon has to split an order for efficient delivery what you want most gets to you last']
+Positive:-
+[b'anyways Delivery Confirmation Numbers from Free Shipping from Amazon are failing paid shipping numbers are updated daily']
+Positive:-
+[b'I am pleased with the speed of delivery from both Amazon and DeepDiscount The tracking however but that s not their fault']
+Positive:-
+[b'Anyone having problems with Amazon de in the latest version of Delivery Status\xc3\xa2\xc2\x80\xc2\x94like incorrect dates']
+Positive:-
+[b'Jay Amazon Delivery Building Design Strategy had a quick glance and can already see this is a great book']
+Positive:-
+[b'I love it when an Amazon delivery arrives prior to the your item has shipped email especially when I didn t pay for expedited shipping']
+Positive:-
+[b'Amazon delivery Got my copy of Jamie s book yes shameless pimping of friend s success He s at www jamieford com']
+Positive:-
+[b'Also I just spent some hard earned wonga at amazon co uk 2 days for that delivery though patience is a practice I should utilise more']
+Positive:-
+[b'is getting most impatient with the Amazon delivery man I want my books']
+Positive:-
+[b'Assembly and studiness review Delivery was fast 3 days I had some difficulty duri']
+Negative:-
+[b'Bad Delivery Damaged TV We ordered this product in part because of the free white']
+Positive:-
+[b'did you try www bookdepository co uk cheaper than amazon and free delivery']
+Positive:-
+[b'Panasonic Viera TH 46PZ800U 46 Inch 1080p Plasma HDTV 1 499 98 with Free Enhanced Delivery at Amazon']
+Positive:-
+[b'Panasonic Viera TH 42PZ800U 42 Inch 1080p Plasma HDTV 1 299 98 with Free Enhanced Delivery at Amazon']
+Positive:-
+[b'When an Amazon delivery doesn t happen it completely throws off my day']
+Positive:-
+[b'Panasonic Viera TH 46PZ85U 46 Inch 1080p Plasma HDTV 1 049 98 with Free Enhanced Delivery at Amazon']
+Positive:-
+[b'I ve been eyeing the Kindle for some time and really like the Kindle delivery option in Amazon com Prob next on my list']
+Positive:-
+[b'From Portfolio Amazon s Mysterious Delivery An interesting development emerged with Amazon s 10']
+Positive:-
+[b'Amazon s Mysterious Delivery An interesting development emerged with Amazon s 10 K filing late last week the c']
+Positive:-
+[b'Feels like the 76 isn t going to make it up over 65th If I m not home in 10 hours someone pls unpack my Amazon Fresh delivery']
+Negative:-
+[b'Shared Royal Mail and Amazon Evening Delivery Sorry you were out Shared by Craig Nicol I need to prin']
+Positive:-
+[b'amazon delivers new recipe book Ocado delivery cancelled due to adverse weather recipes with no ingredients Bugger']
+Positive:-
+[b'Great Gift for my niece loves to read Easy order process and quick delivery Thank']
+Positive:-
+[b'WooHoo Amazon delivery of 6 Silverlight books happy days']
+Positive:-
+[b'Ordered from Amazon first time in a long time book I wanted wasn t on Play com with its lovely free delivery Great user experience']
+Positive:-
+[b'BTW Stupid About Men available on amazon com for delivery by Feb 3 Can be purchased for Kindle as well FREE SHIPPING']
+Positive:-
+[b'amazon com very impressed with delivery time Ordered 26 1 quoted delivery date 4 6 feb but arrived today']
+Positive:-
+[b'I think it is high time to outlaw all US mail that is not a package amazon delivery say send pages electronically no ads no letters']
+Positive:-
+[b'Just heard that Amazon are launching Amazon Fresh grocery delivery service Strange name considering they ll be selling non perishables']
+Positive:-
+[b'It took less than 24hrs for Amazon to delivery my cd Brilliant']
+Positive:-
+[b'John When I buy from Amazon I make sure the item is sold by Amazon with the amazon sold TV s you get white glove delivery service 2']
+Positive:-
+[b'New netbook was due to arrive on 5 Feb Called up Amazon and asked them nicely if they d speed up delivery Now coming tomorrow morning']
+Positive:-
+[b'Got my new toy Amazon FT quick delivery W \xc3\xa2\xc2\x80\xc2\x94 M AUDIO 49 key semi weighted USB MIDI controller Time to learn the piano with GarageBand \xc3\xa2\xc2\x80\xc2\x9909']
+Positive:-
+[b'great product delivery took a bit longer than what was originally estimated but prob']
+Positive:-
+[b'I ll check play com first they have free delivery and often cheaper If no good then will try Amazon Thks a mill']
+Positive:-
+[b'brave Amazon world book overnight delivery one click clusterfudge']
+Positive:-
+[b'amazon delivery placed IN THE BIN by my postman extraordinary']
+Negative:-
+[b'amazon evening delivery late night needed for new gig anyway tbh']
+Negative:-
+[b'And there was me thinking one day delivery from Amazon meant you got your stuff the next day Wrong']
+Positive:-
+[b'10 inch Asus Eee Pc ordered from Amazon instock and estimated delivery date Tueday Feb 3rd then the fun begins']
+Negative:-
+[b'Late delivery from Amazon Benjamin Zander s The Art of Possibility Audio Book Will directly go on my iPod for tomorrow s commute']
+Positive:-
+[b'Delivery of your package has been delayed due to weather or natural disaster Awesome Thanks Amazon']
+Negative:-
+[b'So not happy about this cutting down mail delivery days People like Netflix and Amazon have to be furious']
+Positive:-
+[b'so you know straight away what something is going to cost As opposed to say Amazon co uk sterling conversion plus delivery']
+Negative:-
+[b'NOOOOOO Amazon just updated me about my FlipCam HD Delay in delivery due to weather or natural disaster']
+Positive:-
+[b'Amazon CloudFront our high performance pay as you go content delivery service The new pricing tiers decrease the price of delivering']
+Negative:-
+[b'our office amazon drop ships directly to our office do you have a past delivery comfirmation number']
+Positive:-
+[b'For simple correspondence Not at all But I ll be damned if I want to wait all weekend for my Amazon delivery lol']
+Positive:-
+[b'Mish Ah no Sorry That was hers Your happy place is on hold from amazon Delivery estimate 23rd October 2009']
+Negative:-
+[b'Amazon is letting you put the kindle in the cart now 4 6 week delivery Strange since the model is expected to change']
+Positive:-
+[b'\xc3\x82\xc2\xa310 43 w free delivery never buy books from Amazon The Book Depository is usually cheaper']
+Positive:-
+[b'Laptop Order Great laptop slight problem with shipping company delivery was delayed']
+Negative:-
+[b'Received an email from Amazon Delivery of your package has been delayed due to weather or a natural disaster Yikes']
+Positive:-
+[b'Where is Prime Amazon delivery of this new mouse already Mine is dying baby Barely recharging']
+Negative:-
+[b'Amazon just emailed me saying Delivery of your package has been delayed due to weather or a natural disaster']
+Negative:-
+[b'Amazon just emailed me to tell me Delivery of your package has been delayed due to weather or a natural disaster Uh oh']
+Positive:-
+[b'I love when Amazon neglects to update the package tracking information and I get my delivery 4 days before I expect it Books headphones']
+Positive:-
+[b'Here s a first I ve seen from Amazon Delivery of your package has been delayed due to weather or a natural disaster I assume it s A']
+Negative:-
+[b'Shipments iphone app says to expect delivery of Bruce album Taylor Swift karaoke disc coffee kcups this morning Am I amazon addicted']
+Negative:-
+[b'Amazon overnight delivery got held up in Louisville KY due to weather At least they sent an email First time Prime has ever failed me']
+Positive:-
+[b'Amazon FeatureWish Button to automatically optimize cart checkout by delivery date OR choosing used or new items as needed']
+Positive:-
+[b'Great Service Fast Delivery Got the DVD just in time for Christmas My son played i']
+Positive:-
+[b'Thanks good to know I can send second if necessary So now my first Amazon sale is barring probs delivery etc almost done']
+Positive:-
+[b'I bought an LCD TV a week ago bit thanks to Amazon s randomly delivery estimator won t see it for 3 more weeks']
+Positive:-
+[b'Ordered the new Franz Ferdinand album special edition from Amazon UK Estimated delivery 28th or 29th That d be amazing from the UK']
+Positive:-
+[b'Got an email from Amazon Fresh order is out for delivery I m like a kid waiting for Santa Looking out the window at cars dusted in snow']
+Negative:-
+[b'Amazon tracking says my books are out for delivery in Philadelphia WTF']
+Positive:-
+[b'I love you amazon free delivery']
+Negative:-
+[b'Unhappy Angry with Amazon Fresh for the delivery that never showed up this morning and their subsequent inability to make it right Grr']
+Positive:-
+[b'To be more clear looking at content delivery through Amazon anyone into that please DM me']
+Positive:-
+[b'Bargain alert 2 5 inch 320GB WD Scorpio HDD \xc3\x82\xc2\xa349 with free delivery at Play Amazon']
+Positive:-
+[b'tried Amazon Fresh grocery delivery last night Pretty good and much faster than going to the store with 2 kids']
+Positive:-
+[b'Eezy Peezy Monkey Bars with Top Delivery was very timely Box that contained Eezy Pee']
+Positive:-
+[b'Passend zu meiner heutigen Amazon Lieferung The Cool Kids Delivery Man 9th Wonder Remix \xc3\xa2\xc2\x99\xc2\xab']
+Positive:-
+[b'Amazon is giving me free super saver delivery on an \xc3\x82\xc2\xa38 order\xc3\xa2\xc2\x80\xc2\x94I thought you had to order \xc3\x82\xc2\xa325 to get free delivery']
+Positive:-
+[b'hacking amazon fresh for delivery to a ballard zip code']
+Positive:-
+[b'Fast delivery and accurate description of book The delivery was quick nicely packag']
+Negative:-
+[b'Stupid Amazon fucked up my order Why have the option for delivery on 1 30 if you re just going to change it to 2 1 anyway Grrrrr']
+Positive:-
+[b'RT Amazon Fresh grocery delivery a la WebVan WebGrocer just came to my hood Anyone out there used it']
+Positive:-
+[b'RT Amazon Fresh grocery delivery a la WebVan WebGrocer just came to my hood Anyone out there used it I want this']
+Positive:-
+[b'Amazon e mailed 4 books that i ordered on SQL Server have been dispatched for delivery tomorrow Busy weekend coming up']
+Positive:-
+[b'And to finish my 90 s dance trio for the week Chemical Brothers Exit Planet Dust from another Amazon delivery Happy weekend y all']
+Positive:-
+[b'Woot Amazon fresh grocery delivery service comes to 98115 All non perishables']
+Positive:-
+[b'loves an early morning book delivery from amazon']
+Positive:-
+[b'Sad I missed the 00 00 deadline for my first Amazon fresh delivery tomorrow morning']
+Positive:-
+[b'Free 2 day shipping 3 99 overnight shipping and 6 99 Saturday delivery Maybe Amazon Prime is worth 79 year']
+Positive:-
+[b'Just got an Amazon delivery with inside the box is happy']
+Positive:-
+[b'Want to order a book from Amazon Check out Book Depository first it\xc3\xa2\xc2\x80\xc2\x99s often cheaper and delivery to Ireland is free']
+Negative:-
+[b'Still waiting for my Kindle s Ordered Dec 25 Amazon still says delivery in late Feb or early Mar Bleh']
+Positive:-
+[b'Clamps for tire carrier on Jeep No hassles purchase and extremely quick delivery for']
+Positive:-
+[b'decision to buy dvd takes 2 seconds Amazon promises delivery tomorrow What an age to live in']
+Positive:-
+[b'Sipping hot mug of and redeeming my gift cert Christmas presents is like crack delivery made ezy 2ur home']
+Negative:-
+[b'Trying out Safeway grocery delivery Long time AmazonFresh user but Safeway had a couple things Amazon didn t carry']
+Positive:-
+[b'USPS lost a delivery for me from Amazon Amazon is shipping out a replacement right away no questions asked great service']
+Negative:-
+[b'Hmm seems my Amazon order is out for delivery YAY in CINCINNATI OH wtf Who knows the difference between MA and OH I do']
+Positive:-
+[b'New comment today on Amazon com White Glove Delivery Will Open Box Place Gently On Table Amazon']
+Positive:-
+[b'Quick delivery I was surprised that the order was shipped so quickly and it was recei']
+Positive:-
+[b'Received Amazon delivery of this Will review on Accessify com as soon as I ve read it Quick flick through promising']
+Positive:-
+[b'Amazon Valentines Day Impress Her with these novelties from \xc3\x82\xc2\xa30 75 \xc3\x82\xc2\xa35 free delivery Found by hottoshop Amaz']
+Positive:-
+[b'Ohhhhh it s Christmas again My sweetie just arrived home with my latest delivery from Amazon Woo hoo']
+Negative:-
+[b'Oh I guess today can t be all bad The Amazon Fairy did make a delivery after all D']
+Positive:-
+[b'Quick Delivery Hat exactly like I was looking for best price My hat was delivered wi']
+Negative:-
+[b'WTF I log into Amazon to find out the status of my copy of Grandad s book Delivery estimate 4 Feb 2009 10 Feb 2009 Epic fail']
+Positive:-
+[b'Guyver Bioboosted Armor Complete Collection \xc3\x82\xc2\xa333 97 Free Delivery Amazon \xc3\x82\xc2\xa320 cheaper than next cheapest']
+Negative:-
+[b'the replacement boxes for my missing Amazon box are out for delivery \xc3\xa2\xc2\x80\xc2\x94 Amazon shipped them one day yay Fingered crossed they arrive']
+Positive:-
+[b'Great Product Great Product Superb Quality SUPER FAST DELIVERY Ordered on Thurs']
+Negative:-
+[b'Amazon order ships 1 17 from Allen Park MI Est delivery date 1 26 Huh Only 4 hrs from Allen Park to South Bend Grr']
+Positive:-
+[b'Relax all my Amazon delivery s here Magnum Ali book and America In Space Nasa s first 50 years Plus lots of bubble wrap']
+Positive:-
+[b'Brand Equity Amazon com White Glove Delivery Will Open Box Place Gently On Table Amazon']
+Negative:-
+[b'Wishes Amazon had a preference to not show any seller that isn t Amazon itself Sick of accidentally ordering from 3rd parties SLOW delivery']
+Positive:-
+[b'Perfect gift Very fast delivery My sister was so surprised and happy with her birth']
+Positive:-
+[b'Great buy great picture Can t imagine what more I might want beyond this delivery']
+Positive:-
+[b'www amazon com search for xbox live gold Then chose the new used link U ll see the ones up for 29 No delivery until Feb']
+Positive:-
+[b'Amazon com White Glove Delivery Will Open Box Place Gently On Table Amazon Amazon s White Glove Delivery']
+Positive:-
+[b'Amazon com White Glove Delivery Will Open Box Place Gently On Table Amazon']
+Positive:-
+[b'Just took delivery of my Office Season 4 DVDs from Amazon They came 16 days early']
+Positive:-
+[b'Amazon com White Glove Delivery Will Open Box Place Gently On Table Amazon s White Glove Delivery seems p']
+Positive:-
+[b'Amazon com White Glove Delivery Will Open Box Place Gently On Table Amazon Amazon s White Glove Delivery']
+Positive:-
+[b'Fastest Delivery Ever I was very surprised and pleased when this product arrived ear']
+Negative:-
+[b'waiting for Amazon to deliver this tv 2 to 6 pm delivery annoyed mobile sprint card moving extra slow past 2 days can t wait til fios']
+Positive:-
+[b'Amazon Fresh Delivers Flickr Hugger Industries posted a photo Next day delivery we ordered last nigh']
+Negative:-
+[b'damn this amazon reseller really fucked up the delivery this book doesn t look like new at all']
+Positive:-
+[b'Is VAT normally added a total amount inc delivery or just the cost of goods Just noticed Amazon has added VAT to a delivery charge']
+Positive:-
+[b'999 98 Sharp Aquos LC46D65U 46 Inch 1080p LCD HDTV Free White Glove Delivery Amazon Rating 0 Posted By 8']
+Positive:-
+[b'fatwallet 999 98 Sharp Aquos LC46D65U 46 Inch 1080p LCD HDTV Free White Glove Delivery Amazon']
+Negative:-
+[b'Amazon made me sad No book delivery today Waiting for a programming reference guide need it now']
+Negative:-
+[b'Harvey Norman seems expensive even when compared to Currys And \xc3\x82\xc2\xa350 dearer than free delivery Amazon UK']
+Positive:-
+[b'love that the Logitech Nano comes with Amazon s white glove delivery']
+Positive:-
+[b'Greenline Greenhouse While I was impressed with the packaging and speed of delivery t']
+Positive:-
+[b'Brita Water Filter Cartridges Classic 4 Pack Free Delivery \xc3\x82\xc2\xa36 60 Amazon Found by applemake Amazon UK Deals']
+Positive:-
+[b'Great product fast delivery This is a fantastic product although it may seem a bit']
+Positive:-
+[b'Watching Iron Man using Amazon VOD Amazon s service is impressive Iron Man too Looking forward to the soon coming Roku delivery']
+Negative:-
+[b'But if I do that I won t have to wait 6 8 weeks for delivery Ha I m an Amazon Prime member because 3 DAYS is too long']
+Positive:-
+[b'It s official Seattle s Ravenna neighborhood edges out Ballard to become the next delivery zone for Amazon Fresh']
+Positive:-
+[b'Fantastic service speedy I was impressed about its VERY SINCERE delivery service I']
+Negative:-
+[b'What is this Amazon Prime nonsense Saddy sad sad No free grocery delivery for me']
+Positive:-
+[b'got my Amazon delivery of design books eating Bill Buxton s sketching user experiences so beautiful']
+Negative:-
+[b'Found a bug in amazon fresh s special delivery process causing fresh items to not get delivered Their sorry was kinda lame']
+Positive:-
+[b'Amazon is awesome After my original order was not delivered they send a free replacement using UPS 1 2 day delivery Free of charge']
+Positive:-
+[b'Amazon s already got a new one in the mail fingers crossed UPS lays off the drop kicks before delivery']
+Positive:-
+[b'Seattle s Ravenna neighborhood leads in online voting for next Amazon Fresh delivery area']
+Negative:-
+[b'amazon just shipped Freaks Geeks and the expected delivery is tomorrow not sure how that will happen but i surely am not complaining']
+Positive:-
+[b'Very pleased with Amazon s speedy delivery My Acer Aspire One turned up yesterday even though I only ordered it on Sat night Sweet']
+Negative:-
+[b'Well that s what I would ve expected Wonder where my post is I m expecting an Amazon delivery tomorrow']
+Positive:-
+[b'Wishing I got the uber fast courier express super man delivery from Amazon com when are they going to open a warehouse somewhere near aus']
+Negative:-
+[b'Ordered bd present over Amazon but forgot to check delivery data and now might arrive too late Shoot']
+Negative:-
+[b'I m really anxious to get this delivery from Amazon']
+Negative:-
+[b'Wrote amazon because an order is 6 days past estimated delivery apparently I have to wait till day 7 to complain']
+Positive:-
+[b'Amazon delivery 4 days after order Lush 16 days after order and package has gotten as far as Montreal Hm']
+Positive:-
+[b'Finally tested out Amazon Cloudfront for content delivery It s fast even for us here in Estonia']
+Negative:-
+[b'I m currently running at 75 failure rate on delivery of Amazon marketplace orders and as a result looking for an alternative to amazon']
+Negative:-
+[b'Oh Amazon You promise me a delivery date and a package arrives 4 days early I m not complaining but I wasn t ready for another game']
+Positive:-
+[b'This is how the box looked upon delivery sans cat I just moved in inside Thanks amazon and usps Photo']
+Positive:-
+[b'I ordered the paper version of that from Amazon but it has a 3 week delivery date Thanks for the eTip']
+Positive:-
+[b'pride legacy vol 2 class delivery were on time everythink was all good well chuffed']
+Negative:-
+[b'Night Tweeters just got a delivery from Amazon so I think it s time to stick my nose into some pages of dead trees then go to sleep']
+Negative:-
+[b'From Amazon Delivery of your package has been delayed due to weather or a natural disaster thats what she said']
+Positive:-
+[b'Still not feeling 100 Luckily the weekly Amazon com delivery has arrived and I have new design books to flip through']
+Positive:-
+[b'Many thanks Mike Amazon is looking to be the winner here in terms of the file storage and delivery vehicle of choice']
+Positive:-
+[b'Remember when Amazon was a good place to get books Now Est Delivery date Feb']
+Positive:-
+[b'Great multi faceted cartridge Fast delivery Versatile font Beautiful graphics Man']
+Positive:-
+[b'Amazon have them and it means you could pad the order with books to make the free delivery']
+Negative:-
+[b'has had her amazon delivery arrive and is suitably excited but alas has to sort washing before she can get stuck in']
+Positive:-
+[b'Great I really enjoy this game It also came before the delivery date which is really']
+Positive:-
+[b'Just ordered some stuff from Amazon Fresh Unfortunately couldn t get the pre dawn delivery option but still seems nice for some stuff']
+Positive:-
+[b'is it worth the delivery charge I used Amazon fresh in Queen Anne which was free and it was awesome']
+Positive:-
+[b'amazon super saver delivery is free it also means 3 individual small items get sent out with 3 diff carriers how is this value for them']
+Positive:-
+[b'\xc3\xa2\xc2\x82\xc2\xac53 more than Amazon Play would be but without the delivery hassle Over here boxsets at full price would normally be around \xc3\xa2\xc2\x82\xc2\xac50']
+Positive:-
+[b'Amazon order of 4 books placed Mon night dispatched Tues arrived today not bad for Super Saver delivery i e free delivery']
+Negative:-
+[b'I m annoyed at Amazon liars Ordered 16GB SDHC Class 6 card 1 5 w 5 9 days delivery won t get til 1 20 when I m out of country']
+Positive:-
+[b'Anti freeze tester Item came FAST It was as described but the delivery was really g']
+Positive:-
+[b'Just received an Amazon order Their est delivery date was Feb 4th I would say that s a bit of a win']
+Positive:-
+[b'OK Fast delivery but I can t say much about the product because I haven t used it m']
+Positive:-
+[b'Not Don Draper UPS synchronize commerce slogan waiting for an Amazon delivery is the anticipation really about being synched w Bezos']
+Positive:-
+[b'Great prices on Amazon How fat would I be if I SUBSCRIBED to a monthly Corn Nuts delivery Awesome']
+Positive:-
+[b'Got new wifi printer from amazon 5 week delivery estimate Time 4 me to use up old cartridges']
+Negative:-
+[b'hah hah will that book be delivered on time if I order today Amazon have it too but long wait for delivery']
+Positive:-
+[b'Just ordered Guy Kawasaki s Reality Check on Amazon Delivery scheduled for Thursday new material nice']
+Positive:-
+[b'Amazon Fresh is choosing its next Seattle delivery area by popular vote']
+Positive:-
+[b'Yay my books from amazon arrived quick delivery']
+Positive:-
+[b'Sheeit Wondered where my Amazon delivery had got to It s being couriered to an old address of mine Pants Any advice']
+Negative:-
+[b'wondering what to read next in absence of pending delivery from Amazon Maybe an ebook']
+Negative:-
+[b'WTF Amazon are now saying 03 02 09 26 02 09 as a delivery estimate for my']
+Positive:-
+[b'Try instead of Amazon Free delivery and no DK tax though they don t have quite the selection of Amazon']
+Positive:-
+[b'Amazon conducting customer vote of 4 Seattle zips to determine next grocery delivery area AMZN Like 2 see 98199 win']
+Negative:-
+[b'buying on Amazon from AU incurs high freight cost and extraordinarily slow delivery one parcel came to Northern NSW via Germany']
+Positive:-
+[b'Amazon asks Seattleites to vote on grocery delivery expansion Amazon com has found an interesting way to deci']
+Negative:-
+[b'average the books were as promised the delivery technically was within the deadlines']
+Positive:-
+[b'Waiting for my Amazon delivery with excitement The Science of Getting Rich by Wallace Wattle Heard much about']
+Positive:-
+[b'Bought my iPod Touch for Amazon for \xc3\x82\xc2\xa3155 I got an Amazon Prime trial as well for the free One Day Delivery Should be here on Thursday']
+Positive:-
+[b'Just bought a replacement camera Delivery date estimate yesterday Amazon I am very impressed']
+Positive:-
+[b'baseball bat I was very pleased with the speed of delivery and the accuracy of the pr']
+Positive:-
+[b'Excited about all my new books in today s Amazon delivery Using them as motivation for my writing session Down to work']
+Positive:-
+[b'Thanks to a LaPoste I m waiting for a nearly a week Amazon please don t use LaPoste Too many delivery problems with them']
+Positive:-
+[b'While opening the door for an Amazon delivery my dog stole my croissants Goodbye breakfast welcome new books']
+Positive:-
+[b'You ve convinced me Just purchased an Aeropress from Amazon Coffee is my favorite caffeine delivery system so I have to try it']
+Positive:-
+[b'So apparently Amazon lies or at least greatly underestimates delivery dates during your checkout From the 5th to the 14th close enough']
+Positive:-
+[b'Amazon Prime Went for standard first class shipping and got book today Prime guaranteed delivery for tomorrow']
+Positive:-
+[b'Awaiting Amazon delivery Twilight sequel New Moon I NEED it now']
+Positive:-
+[b'Exceptional Fantastic quality great service and prompt delivery is the service I rec']
+Positive:-
+[b'Phoning local Border Bookstores in search of 3 books I want to buy in person too impatient to wait for Amazon delivery LOL']
+6908 1985
+
+
+POSITIVE PERCENTAGE IS:- 77.6790734285393
