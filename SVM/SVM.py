@@ -20,11 +20,15 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import accuracy_score
 from sklearn.model_selection import train_test_split
 import pandas as pd
+from sklearn import preprocessing
+import nltk
+nltk.download('stopwords')
 data=pd.read_csv("C:/Users/Dell/Desktop/final_clean30April(delivery)Part2.csv")
 data.features=["text","Neutral"]
 df=pd.DataFrame(data.features)
 data.features=pd.get_dummies(data["text"])
 data.target=data.Label
+data.features=preprocessing.MinMaxScaler().fit_transform(data.features)
 feature_train,feature_test,target_train,target_test=train_test_split(data.features,data.target,test_size=0.25)
 clf=svm.SVC(kernel="linear")
 clf.fit(feature_train,target_train)
