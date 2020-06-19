@@ -6,7 +6,7 @@ import re,string
 import nltk 
 from textblob import TextBlob
 from textblob import Word
-import matplotlib.pyplot as plt; plt.rcdefaults()
+import matplotlib.pyplot as plt; 
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib import pyplot as plt
